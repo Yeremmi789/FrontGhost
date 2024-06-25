@@ -1,0 +1,58 @@
+{
+  "hash": "9bbb42d9",
+  "configHash": "44d010ef",
+  "lockfileHash": "ace73b7e",
+  "browserHash": "f4712acf",
+  "optimized": {
+    "@angular/common": {
+      "src": "../../../../../node_modules/@angular/common/fesm2022/common.mjs",
+      "file": "@angular_common.js",
+      "fileHash": "ed008830",
+      "needsInterop": false
+    },
+    "@angular/core": {
+      "src": "../../../../../node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "22cd3e9e",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "56802a37",
+      "needsInterop": false
+    },
+    "@angular/router": {
+      "src": "../../../../../node_modules/@angular/router/fesm2022/router.mjs",
+      "file": "@angular_router.js",
+      "fileHash": "af3d4bc9",
+      "needsInterop": false
+    },
+    "ng-gallery": {
+      "src": "../../../../../node_modules/ng-gallery/fesm2022/ng-gallery.mjs",
+      "file": "ng-gallery.js",
+      "fileHash": "62a379cb",
+      "needsInterop": false
+    },
+    "ng-gallery/lightbox": {
+      "src": "../../../../../node_modules/ng-gallery/fesm2022/ng-gallery-lightbox.mjs",
+      "file": "ng-gallery_lightbox.js",
+      "fileHash": "04673aa7",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-TQ4E5UMB": {
+      "file": "chunk-TQ4E5UMB.js"
+    },
+    "chunk-EA7H2FBM": {
+      "file": "chunk-EA7H2FBM.js"
+    },
+    "chunk-CYX6SLFX": {
+      "file": "chunk-CYX6SLFX.js"
+    },
+    "chunk-NJBP4O7K": {
+      "file": "chunk-NJBP4O7K.js"
+    }
+  }
+}

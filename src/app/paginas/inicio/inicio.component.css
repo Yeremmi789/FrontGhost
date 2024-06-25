@@ -1,0 +1,90 @@
+
+*{
+  font-family: sans-serif;
+}
+
+/* .c-full{
+  width: 100%;
+  height:auto;
+  display: flex;
+  justify-content: center;
+  background-color: #131312;
+}
+
+.c-medium{
+  width: 80%;
+  height:auto;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+} */
+
+/* Cuerpo de la sección de productos */
+.c-titulo-productos{
+  display: inline-block;
+  width: 100%;
+  background-color: chocolate;
+  margin: 0 10px;
+
+  color: rgb(245, 245, 245);
+  font-size: 18px;
+  font-weight: 400px;
+  line-height: 25.2px;
+}
+
+.c-product{
+  width: 20%;
+  height: auto;
+  margin: 0 10px;
+}
+
+.c-product img {
+  width: 100%;
+  height: auto;
+}
+
+/* Contenedor de cada Producto */
+.info{
+  background-color: #131312;
+  color: #ffff;
+}
+
+.info p{
+  padding-top: 10px;
+  font-size: 14px;
+  font-weight: 500;
+  font-family: sans-serif;
+}
+
+.precios{
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  /* background-color: chartreuse; */
+}
+
+.c-descuento{
+  /* background-color: blue; */
+  width: 50%;
+  display: flex;
+  align-items: center;
+  }
+
+.c-cantidad{
+    /* background-color: yellow; */
+    width: 50%;
+}
+
+.c-cantidad p{
+  font-size: 15px;
+  font-weight: 550;
+  display: flex;
+  justify-content: end;
+}
+
+/* .c-inline{
+  display: block;
+  width: 100%;
+  background-color: red;
+} */
+
